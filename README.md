@@ -14,7 +14,7 @@ This dataset comprises of multiple signals from isolated pure cells, mixed cells
 * Evaluate your model - what metrics would you use to quantitatively measure the performance of your model
 
 ### Predict
-* Use these training models to predict the total counts of the individual cell types in mixed cells i.e Mixed_Cells_Type_1 and Mixed_Cells_Type_1
+* Use these training models to predict the total counts of the individual cell types in mixed cells i.e Mixed_Cells_Type_1 and Mixed_Cells_Type_2
 
 ## Dataset
 A link to the dataset will be sent to you in the email. The datasets contains a few thousand data points for each cells.
